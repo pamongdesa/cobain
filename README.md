@@ -1,2 +1,2 @@
 # cobain
-cobain cname
+cobain cname pamongdesa
